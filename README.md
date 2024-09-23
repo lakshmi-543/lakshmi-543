@@ -1,3 +1,6 @@
+GitHub update
+
+
 <h1 align="center">Hi there! 👋 I'm Lakshmi Kar Pathak</h1>
 <h3 align="center">Software Engineer | Lifelong Learner | Tech Enthusiast from India</h3>
 
@@ -49,10 +52,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-### 🛠️ Projects
-- **[Demo Banking App](https://github.com/lakshmi-543/banking-app)** - A full-fledged Android app simulating banking transactions and account management.
-- **[Portfolio Website](https://github.com/lakshmi-543/portfolio-website)** - My personal portfolio showcasing my skills and projects.
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakshmi-543&show_icons=true&theme=radical" alt="GitHub Stats" width="400px" />
@@ -62,7 +61,5 @@
 ### 🔥 GitHub Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmi-543&" alt="lakshmi-543" /></p>
 
-### 📊 GitHub Activity Graph
-![Lakshmi's Activity Graph](https://activity-graph.herokuapp.com/graph?username=lakshmi-543&theme=dracula)
 
 ✨ *"First, solve the problem. Then, write the code."* - John Johnson
