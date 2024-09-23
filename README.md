@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi-543&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi-543" /> </p>
 
-- 🔭 I’m currently working on **Demo app on bank flow**
+- 🔭 I’m currently working on **Demo app for bank transactions using ReactJS with voice command integration**
 
 - 🌱 I’m currently learning **Kotlin, Android Studio, NextJS**
 
