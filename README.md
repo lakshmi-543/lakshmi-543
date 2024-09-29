@@ -17,7 +17,7 @@ GitHub update
 
 💼 I’m always open to collaborating on interesting projects or discussing new opportunities in the tech world!
 
-- 🔭 I’m currently working on **a Demo Banking App** where users can simulate transactions, manage accounts, and more. This project involves **Kotlin, Android Studio, and Firebase** for backend services.
+- 🔭 I’m currently working on **a Demo Banking App** where users can simulate transactions, manage accounts, and more. This project involves **ReactJS, SDK, and Louie Voice** for backend services.
   
 - 🌱 I’m currently diving deep into **Kotlin, Android Studio**, and **NextJS** to expand my expertise in mobile and front-end development.
 
